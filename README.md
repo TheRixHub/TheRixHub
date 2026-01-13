@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Rix</h1>
+<h1 align="center">Merhaba ben Rix</h1>
 <h3 align="center">Türkiye'den tutkulu bir frontend geliştiricisiyim</h3>
 
 - 🌱 Şu anda **Full-Stack Tasarımcısı** öğreniyorum
